@@ -1,6 +1,7 @@
 ---
 title: "UN Votes"
-author: "Colin Rundel"
+author: 
+  - Jane Doe
 format: html
 ---
 
