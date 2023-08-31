@@ -1,6 +1,8 @@
 ---
 title: "UN Votes"
-author: "Colin Rundel"
+author: 
+  - Colin Rundel
+  - Tom Smith
 format: html
 ---
 
