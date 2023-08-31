@@ -1,6 +1,7 @@
 ---
 title: "UN Votes"
 author: 
+  - Jane Doe
   - Colin Rundel
   - Tom Smith
 format: html
