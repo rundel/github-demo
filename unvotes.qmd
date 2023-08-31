@@ -1,6 +1,6 @@
 ---
 title: "UN Votes"
-author: "Your name here"
+author: "Colin Rundel"
 format: html
 ---
 
